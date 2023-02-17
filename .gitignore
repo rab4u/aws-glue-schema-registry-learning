@@ -130,3 +130,6 @@ dmypy.json
 
 # intellij
 .idea
+
+# nodejs
+./nodejs-client-example/node_modules
